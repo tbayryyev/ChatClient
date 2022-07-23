@@ -10,7 +10,6 @@
 
 #include "util.h"
 
-// I pledge my honor that I have abided by the Stevens Honor System.
 // Tahyr Bayryyev
 
 int client_socket = -1;
