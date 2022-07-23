@@ -1,11 +1,3 @@
-/*******************************************************************************
- * Name          : chatserver.c
- * Author        : Brian S. Borowski
- * Version       : 1.0
- * Date          : April 24, 2020
- * Last modified : April 28, 2020
- * Description   : Basic chat server with TCP sockets.
- ******************************************************************************/
 #include <arpa/inet.h>
 #include <errno.h>
 #include <fcntl.h>
