@@ -1,11 +1,3 @@
-/*******************************************************************************
- * Name          : util.h
- * Author        : Brian S. Borowski
- * Version       : 1.1
- * Date          : April 24, 2020
- * Last modified : April 26, 2021
- * Description   : Helpful utility functions for chat server/client.
- ******************************************************************************/
 #ifndef UTIL_H_
 #define UTIL_H_
 
