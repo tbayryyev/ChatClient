@@ -10,7 +10,7 @@
 
 #include "util.h"
 
-// Tahyr Bayryyev
+//Tahyr Bayryyev
 
 int client_socket = -1;
 char username[MAX_NAME_LEN + 1];
