@@ -3,10 +3,9 @@ This chat client works with the sockets API in the C programming language. The c
 
 ### How to Run the ChatClient
 Make sure you are within the project directory, then run the following: 
-./chatclient -a <server ip address> -p <port numnber>
+./chatclient -a {server ip address} -p {port numnber}
 ```
-make
+make chatclient
 ./chatclient -a 192.0.0.1 -p 3000
-
 ```
 Note: order of arguments do not matter, port number must be in [1024, 65535]
